@@ -38,3 +38,4 @@ function phone(){
         document.getElementById("text2").style.textDecoration = "none";
         document.getElementById("text3").style.textDecoration = "underline";
         }
+
