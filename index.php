@@ -50,10 +50,10 @@
       <div class="dropdown">
         <button class="dropbtn" style="background-color:transparent;margin-top:30px;font-weight:600;">Learn</button>
         <div class="dropdown-content">
-          <a href="#">text 0</a>
-          <a href="#">text 1</a>
-          <a href="#">text 2</a>
-          <a href="#">text 3</a>
+          <a href="https://youtu.be/-XMm9oQZt1g?si=RpKsXqsJKWvWMFJr">How To Select Crypto Coin for Trading</a>
+          <a href="https://youtu.be/26pKp6dy9JA?si=6RUMBMIYlJdB_W7C">Cryptocurrency Fundamental Analysis</a>
+          <a href="https://youtu.be/4Tmmpqqi5KU?si=gr0qj_DYfsAbmG8_">SECRET OF BINANCE FUTURES COIN SELECTION</a>
+          <a href="https://youtu.be/KWMVQGCBY5w?si=ATWyiiQzaoPaGD0Y">GLOBAL CRYPTO EXCHANGES REGISTERING IN INDIA</a>
 
         </div>
       </div>
@@ -214,12 +214,12 @@
 <h1 style="margin-top: 80px; margin-left: 150px;"> Get in touch. Stay in touch.</h1>
 <section class="body2" style="margin-left: 150px; margin-top: 15px; display: flex;">
         <img src="binance/pic1.png"  width="300px" height="250px"     >
-        <img src="binance/pic2.png"  width="300px" height="250px"  style="margin-left: 30px;"    >
-         <img src="binance/pic3.png" width="300px" height="250px"  style="margin-left: 30px;"  >
+        <a href="https://blog.binance.us/"><img src="binance/pic2.png"  width="300px" height="250px"  style="margin-left: 30px;"></a>
+         <a href="https://twitter.com/binance"><img src="binance/pic3.png" width="300px" height="250px"  style="margin-left: 30px;"></a>
          <img src="binance/pic4.png" width="300px" height="250px"  style="margin-left: 30px;"  >
 </section>
 
-<center style="margin-top: 50px;margin-bottom:50px;">
+<center style="margin-top: 100px;margin-bottom:50px;">
     <h1 style="font-size: 46px;">Start trading now</h1>
    <a href="home.php" style="text-decoration:none;color:black;cursor: pointer;"><button style="margin-top: 20px; width: 180px;height: 40px; font-size: 18px;background-color: #ffcc00; border: none; border-radius: 6px;cursor: pointer;">Trade Now</button></a>
 </center>
