@@ -104,7 +104,7 @@ body{
 
   .dropdown-content input:hover { border-color: #ffcc00;}
   
-  .dropdown:hover .dropdown-content {display: block;}
+  .dropdown:hover .dropdown-content {display: block; width: 120px;}
   
   .dropdown:hover .dropbtn {color: #ffcc00; cursor: pointer;}
 
