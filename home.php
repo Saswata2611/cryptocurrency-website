@@ -1,3 +1,7 @@
+<?php 
+
+
+?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -208,7 +212,7 @@ for(var i = 1; i<= 100; i++){
 }
 }
  if(data_name != '' && data_unit != ''){
-    window.location.href = 'index.php';
+    window.location.href = 'checkout.php';
 }   
 
 }
